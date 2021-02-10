@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://interior-consultant-challenge-rose.vercel.app/">
+    <a href="https://interior-consultant-challenge.rafacalvo.vercel.app/">
       Solution
     </a>
     <span> | </span>
