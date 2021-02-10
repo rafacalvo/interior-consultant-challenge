@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1,
+      maximum-scale=5"
+    />
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="/devchallenges.png" type="image/x-icon" />
+    <!-- Icons -->
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200;300&family=Lora:wght@400;600;700&family=Montserrat:wght@200;300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- Stylesheet -->
+    <link rel="stylesheet" href="styles.css" />
+
+    <title>Interior Consultant Challenge</title>
+  </head>
+  <body>
+    <nav class="navbar container">
+      <a href="/" class="logo">THIS INTERIOR</a>
+      <div class="menu-links">
+        <a href="#" class="active">Home</a>
+        <a href="#">Collection</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+      </div>
+      <a href="javascript:void(0)" class="hamburger" onclick="openNav()"
+        ><span class="material-icons"> menu </span></a
+      >
+
+      <div id="mySidenav" class="sidenav">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
+          ><span class="material-icons"> close </span></a
+        >
+        <div class="sidenav-links">
+          <a href="#" class="active">Home</a>
+          <a href="#">Collection</a>
+          <a href="#">About</a>
+          <a href="#">Contact</a>
+        </div>
+      </div>
+    </nav>
+    <section class="hero container">
+      <div class="hero-text">
+        <h1>Modern interior</h1>
+        <p>
+          A full-Service residential & commercial interior design and staging
+          company offering professional organizing & eco-services.
+        </p>
+        <a href="#"
+          >Read more <span class="material-icons"> arrow_right_alt </span></a
+        >
+      </div>
+      <div class="hero-img">
+        <img
+          src="/img/photo1.png"
+          alt="Main interior picture"
+          class="main-img"
+        />
+        <div class="author">
+          <div class="author-info">
+            <img src="/img/photo2.png" alt="Aliza Webber picture" />
+            <div class="author-name">
+              <h4>Aliza Webber</h4>
+              <p>Interior designer</p>
+            </div>
+          </div>
+          <h2>
+            Designed in 2020 by <br />
+            Mariza Webber
+          </h2>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>
+        <a href="">Rafael Calvo</a> @
+        <a href="https://devchallenges.io">DevChallenges.io</a>
+      </p>
+    </footer>
+  </body>
+
+  <script src="/app.js"></script>
+</html>
