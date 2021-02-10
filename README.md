@@ -38,11 +38,8 @@
 
 ![screenshot](https://i.ibb.co/FYpqXkK/Screenshot-2021-02-10-Interior-Consultant-Challenge.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Third challenge I made for DevChallenges.io. This one's a great practice for responsive design and positioning. As na experience it's a fun one, the black box with the person's name was a bit tricky to position.
 
-- You can find the demo [here]()
-- It was a really fun experience, the black box with the person's name was a bit tricky to position.
-- I think I'm getting better with media queries and positioning.
 
 ### Built With
 
