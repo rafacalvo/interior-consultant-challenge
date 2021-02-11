@@ -59,4 +59,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [rafacalvo](https://rafacalvo.netlify.app/)
 - GitHub [@rafacalvo](https://github.com/rafacalvo)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Twitter [@rafacalvodev](https://mobile.twitter.com/rafacalvodev)
